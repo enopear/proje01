@@ -1,1 +1,1 @@
-# proje01
+Python Proje01 Çalışmalarım
