@@ -1,3 +1,3 @@
 Python Proje01 Çalışmalarım
-<img src="resimler/pythonlogo.png" width = "120"
-height = "160"/>
+<img src="resimler/pythonlogo.png" width = "200"
+height = "300"/>
